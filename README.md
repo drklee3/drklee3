@@ -1,3 +1,3 @@
 hi heres dog for you
 
-![dog](./dog.jpg)
+![dog](https://github.com/drklee3/drklee3/dog.jpg)
